@@ -14,3 +14,6 @@ l: mueve el cursor hacia la derecha.
 
 Comandos utiles:
 u: deshace la accion anterior.
+Ctrl + R: hace nuevamente la accion deshecha.
+$: mueve el cursor al final de la linea.
+0: mueve el cursor al inicio de la linea.

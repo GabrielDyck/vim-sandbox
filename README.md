@@ -17,3 +17,4 @@ u: deshace la accion anterior.
 Ctrl + R: hace nuevamente la accion deshecha.
 $: mueve el cursor al final de la linea.
 0: mueve el cursor al inicio de la linea.
+r: remplaza por un caracter el caracter debajo del cursor

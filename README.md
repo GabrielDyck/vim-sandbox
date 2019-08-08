@@ -27,6 +27,6 @@ $: mueve el cursor al final de la linea.
 0: mueve el cursor al inicio de la linea.
 r: remplaza por un caracter el caracter debajo del cursor
 Shift + s: borra la linea en la que se encuentra el cursor
-
+/<saraza>: busca la palabra <saraza>. Tocando ENTER, y usando n/N(Shift+n) podemos movernos entre la siguiente ocurrencia de <saraza> y la anterior respectivamente.
 
 
